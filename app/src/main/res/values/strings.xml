@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Homework4_leacture7</string>
+    <string name="hello">Hello!</string>
+    <string name="let_s_introduce">let\'s introduce</string>
+    <string name="your_full_name">Your full name</string>
+    <string name="username">Username</string>
+</resources>
